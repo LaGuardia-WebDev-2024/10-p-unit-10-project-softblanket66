@@ -38,6 +38,11 @@ h2{
 font-family:monospace;
 }
 
+h3{
+  color: orange;
+font-family:monospace;
+}
+
 #start{
   text-align: left;
 }
