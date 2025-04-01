@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: skyblue;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,7 +14,7 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 10px solid pink;
 }
 
 .container{
@@ -27,14 +27,20 @@ html{
 }
 
 .pic{
-  height: 600px;
-  width: 400px;
+  height: 300px;
+  width: 200px;
   object-fit: cover;
-  border: 1px solid black;
+  border: 10px solid pink;
 }
 
 h2{
-  color: black;
+  color: orange;
+font-family:monospace;
+}
+
+h3{
+  color: orange;
+font-family:monospace;
 }
 
 #start{
